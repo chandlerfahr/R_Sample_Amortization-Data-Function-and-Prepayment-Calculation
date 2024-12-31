@@ -1,4 +1,4 @@
-# R_Sample_Amortization-Data-Function-and-Prepayment-Calculation
+# R Sample: Amortization-Data-Function-and-Prepayment-Calculation
 # This code builds a random loan data set and defines a function that output a data set that contains an amortization schedule for each loans.
 # The amortization schedule has a variety of utilities - it's potential use for prepayment calculation is developed in this script. 
 
