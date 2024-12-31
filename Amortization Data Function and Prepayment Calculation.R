@@ -43,7 +43,7 @@ amortize_loans = function(loans_df) {
     # Extract loan details from the data frame we defined earlier 
     account = loans_df[i, "account"]
     principal = loans_df[i, "principal"]
-    interest_rate = loans_df[i, "interest_rate"] / 100 / 12  # conver interest rate to months
+    interest_rate = loans_df[i, "interest_rate"] / 100 / 12  # convert interest rate to months
     remaining_term = loans_df[i, "remaining_term"]
     
     # Calculate the monthly payment using the formula for a fixed-rate loan
