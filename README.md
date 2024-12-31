@@ -7,4 +7,4 @@
 # A potential use of this dataframe is to calculate prepayment rates. 
 # Running the function on historic data, one can then compare the scheduled balance to the actual principal balance today.
 # The difference in these values reveals what has been prepaid between the two dates at the loan level.
-# Aggregating this data, one can find prepayments on aggregated loan types over a given period of time. 
+# With this data, one can find prepayments on aggregated loan types over a given period of time. 
